@@ -1,0 +1,2 @@
+# GitConflict
+test conflict
